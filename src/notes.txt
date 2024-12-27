@@ -1,0 +1,7 @@
+1. First we cleaned everything
+2. Installed required packages. - styled components, firebase, fuse.js, normalize.css
+
+
+First we are going to build the jumpatron. It is the sign in page.
+
+Here we are applying css in a different way. Inside components/jumbotron/styles/jumbotron.js. We are using styles components which is used to apply css styling.
